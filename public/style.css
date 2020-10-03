@@ -157,6 +157,7 @@ input::placeholder{
     font-size: 16px;
     font-weight: normal;
 }
+/*chamando so o botão direto */
 button[type="submit"]{
     padding: 8px 32px;
     background-color: var(--primary--color);
