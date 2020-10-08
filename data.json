@@ -1,0 +1,20 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "http://www.google.com",
+      "name": "vinin4",
+      "birth": "1997-05-05",
+      "gender": "M",
+      "services": "Musculaçao",
+      "created_at": 1602124880648
+    },
+    {
+      "avatar_url": "http://www.google.com",
+      "name": "vinin5",
+      "birth": 1588636800000,
+      "gender": "M",
+      "services": "Musculaçao",
+      "created_at": 1602125519389
+    }
+  ]
+}
