@@ -8,3 +8,5 @@
 [0924/192359.916:ERROR:exception_snapshot_win.cc(100)] thread ID 9132 not found in process
 [1009/221401.768:ERROR:settings.cc(430)] Settings version is not 5
 [1009/222401.790:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1010/192445.856:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1010/205303.377:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
