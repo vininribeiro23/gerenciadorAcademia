@@ -5,7 +5,6 @@
   "scripts": {
     "start": " npm-run-all -p nodemon browsersync",
     "nodemon": "nodemon --icu-data-dir=node_modules/full-icu server.js",
-    "vinin":"node  ./server.js",
     "browsersync": "browser-sync start --proxy http://localhost:5000 --files  'public,views'"
   },
   "dependencies": {
