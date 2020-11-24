@@ -66,7 +66,7 @@ exports.post = function(req, res){
         return res.redirect("/instructors")
 
     } )
-
+ 
     //return res.send(req.body)
 }
 
