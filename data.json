@@ -37,12 +37,12 @@
       "created_at": 1602724617829
     },
     {
-      "id": 5,
+      "id": "5",
       "avatar_url": "http://www.google.com",
-      "name": "1234",
-      "birth": 957484800000,
+      "name": "  123477",
+      "birth": null,
       "gender": "M",
-      "services": "crossfit",
+      "services": "   crossfit",
       "created_at": 1602724642989
     },
     {
