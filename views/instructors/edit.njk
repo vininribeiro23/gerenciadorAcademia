@@ -18,4 +18,8 @@
     </section>
 </form>
 
+<form action="instructors?_method=DELETE" method="post">
+    <input type="hidden" name="id"  value="{{instructor.id}}">
+</form>
+
 {% endblock content %}
