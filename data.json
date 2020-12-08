@@ -1,15 +1,6 @@
 {
   "instructors": [
     {
-      "id": 1,
-      "avatar_url": "http://www.google.com",
-      "name": "vinin1",
-      "birth": 862790400000,
-      "gender": "M",
-      "services": "crossfit",
-      "created_at": 1602461384014
-    },
-    {
       "id": 2,
       "avatar_url": "http://www.google.com",
       "name": "vinin2",
